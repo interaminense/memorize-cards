@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/memorize-cards/static/js/runtime~main.9da272da.js"
   },
   {
-    "revision": "3ad76f93ccf13ec3fdd9",
-    "url": "/memorize-cards/static/js/main.d0023fa4.chunk.js"
+    "revision": "33933006568eeb1ef3fc",
+    "url": "/memorize-cards/static/js/main.b41d6752.chunk.js"
   },
   {
     "revision": "87c4f02bee46e42c2877",
     "url": "/memorize-cards/static/js/2.c4ad3bc2.chunk.js"
   },
   {
-    "revision": "3ad76f93ccf13ec3fdd9",
+    "revision": "33933006568eeb1ef3fc",
     "url": "/memorize-cards/static/css/main.b006ae5a.chunk.css"
   },
   {
-    "revision": "cc416ba2829094a19e87576a8eccc3ca",
+    "revision": "5845a8d8277a4567afe4d6606963037b",
     "url": "/memorize-cards/index.html"
   }
 ];
