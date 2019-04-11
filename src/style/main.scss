@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+.App {
+    margin: 1.5rem 3rem;
+
+    .title {
+        margin-bottom: 3rem;
+    }
+}
+
+@import 'cards';
+@import 'card';
