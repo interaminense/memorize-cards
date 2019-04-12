@@ -1,13 +1,16 @@
 {
-  "main.css": "/memorize-cards/static/css/main.b006ae5a.chunk.css",
-  "main.js": "/memorize-cards/static/js/main.b41d6752.chunk.js",
-  "main.js.map": "/memorize-cards/static/js/main.b41d6752.chunk.js.map",
-  "runtime~main.js": "/memorize-cards/static/js/runtime~main.9da272da.js",
-  "runtime~main.js.map": "/memorize-cards/static/js/runtime~main.9da272da.js.map",
-  "static/js/2.c4ad3bc2.chunk.js": "/memorize-cards/static/js/2.c4ad3bc2.chunk.js",
-  "static/js/2.c4ad3bc2.chunk.js.map": "/memorize-cards/static/js/2.c4ad3bc2.chunk.js.map",
+  "main.css": "/memorize-cards/static/css/main.02138d6b.chunk.css",
+  "main.js": "/memorize-cards/static/js/main.0ddb679f.chunk.js",
+  "main.js.map": "/memorize-cards/static/js/main.0ddb679f.chunk.js.map",
+  "runtime~main.js": "/memorize-cards/static/js/runtime~main.2123091d.js",
+  "runtime~main.js.map": "/memorize-cards/static/js/runtime~main.2123091d.js.map",
+  "static/css/2.59b88344.chunk.css": "/memorize-cards/static/css/2.59b88344.chunk.css",
+  "static/js/2.f6d041f1.chunk.js": "/memorize-cards/static/js/2.f6d041f1.chunk.js",
+  "static/js/2.f6d041f1.chunk.js.map": "/memorize-cards/static/js/2.f6d041f1.chunk.js.map",
   "index.html": "/memorize-cards/index.html",
-  "precache-manifest.044c045bea8841d557aa427402516b7f.js": "/memorize-cards/precache-manifest.044c045bea8841d557aa427402516b7f.js",
+  "precache-manifest.cc8a4ec55da477fbd5c7f084fe1cb185.js": "/memorize-cards/precache-manifest.cc8a4ec55da477fbd5c7f084fe1cb185.js",
   "service-worker.js": "/memorize-cards/service-worker.js",
-  "static/css/main.b006ae5a.chunk.css.map": "/memorize-cards/static/css/main.b006ae5a.chunk.css.map"
+  "static/css/2.59b88344.chunk.css.map": "/memorize-cards/static/css/2.59b88344.chunk.css.map",
+  "static/css/main.02138d6b.chunk.css.map": "/memorize-cards/static/css/main.02138d6b.chunk.css.map",
+  "static/media/main.scss": "/memorize-cards/static/media/slick.f97e3bbf.svg"
 }
