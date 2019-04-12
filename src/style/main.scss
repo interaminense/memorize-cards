@@ -3,12 +3,16 @@
 }
 
 .App {
-    margin: 1.5rem 3rem;
+    margin: 0 0 1.5rem 0;
 
     .title {
         margin-bottom: 3rem;
     }
 }
 
-@import 'cards';
+@import '~slick-carousel/slick/slick.css'; 
+@import '~slick-carousel/slick/slick-theme.css';
+
 @import 'card';
+@import 'cards';
+@import 'header';
