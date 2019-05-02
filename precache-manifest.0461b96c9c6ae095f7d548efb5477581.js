@@ -20,23 +20,23 @@ self.__precacheManifest = [
     "url": "/memorize-cards/static/js/runtime~main.9da272da.js"
   },
   {
-    "revision": "73bc2e8b7665305ef97d",
-    "url": "/memorize-cards/static/js/main.c7d57913.chunk.js"
+    "revision": "e5aee545255f62edc299",
+    "url": "/memorize-cards/static/js/main.cccbc8b7.chunk.js"
   },
   {
-    "revision": "e6897dd801564a344eb0",
-    "url": "/memorize-cards/static/js/2.d38659e4.chunk.js"
+    "revision": "d9626351df1ce4086a58",
+    "url": "/memorize-cards/static/js/2.5351ccd2.chunk.js"
   },
   {
-    "revision": "73bc2e8b7665305ef97d",
-    "url": "/memorize-cards/static/css/main.465dec96.chunk.css"
+    "revision": "e5aee545255f62edc299",
+    "url": "/memorize-cards/static/css/main.c810dd25.chunk.css"
   },
   {
-    "revision": "e6897dd801564a344eb0",
-    "url": "/memorize-cards/static/css/2.9558bbe3.chunk.css"
+    "revision": "d9626351df1ce4086a58",
+    "url": "/memorize-cards/static/css/2.8ffaaf6b.chunk.css"
   },
   {
-    "revision": "50ea6731bf808ce0d069bbdb199c40b2",
+    "revision": "3516f81c7d1064f1f8976ddd0a23caa1",
     "url": "/memorize-cards/index.html"
   }
 ];
