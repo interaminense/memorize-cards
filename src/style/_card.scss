@@ -1,20 +1,27 @@
 .card {
-    background-color: #e3e3e3;
+    background-color: $color-white;
     width: 100%;
     border-radius: 0.5rem;
     padding: 2rem;
+    border: 2px solid $color-gray;
+    box-shadow: 0px -6px inset $color-gray;
 
     &-title {
         margin: 0;
     }
 
     &-subtitle {
-        color: #666;
+        color: $color-gray-2;
     }
 
     &-description {
         text-align: center;
         font-size: 3.5rem;
         margin: 1rem 0 2rem;
+        line-height: 3.5rem;
+    }
+
+    &-tags {
+        display: inline-block;
     }
 }

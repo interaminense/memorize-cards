@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 22px;
+    font-family: $font-family;
+    color: $color-main;
+}
+
+.App {
+    margin: 0 0 1.5rem 0;
+
+    .title {
+        margin-bottom: 3rem;
+    }
+}
