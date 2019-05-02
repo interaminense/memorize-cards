@@ -1,0 +1,68 @@
+{
+    "cards": [
+        {
+            "id": "1",
+            "title": "My first card 1",
+            "subtitle": "Are you ready?",
+            "description": "it is very cool",
+            "tags": ["1", "2", "3"]
+        },
+        {
+            "id": "2",
+            "title": "second card",
+            "subtitle": "Are you ready?",
+            "description": "it is very cool",
+            "tags": ["1", "2", "3"]
+        },
+        {
+            "id": "3",
+            "title": "My first card 3",
+            "subtitle": "Are you ready?",
+            "description": "it is very cool",
+            "tags": ["1", "2", "3"]
+        },
+        {
+            "id": "4",
+            "title": "My first card 4",
+            "subtitle": "Are you ready?",
+            "description": "it is very cool",
+            "tags": ["1", "2", "3", "4"]
+        }
+    ],
+    "groups": [
+        {
+            "id": "1",
+            "cards": ["1", "2", "3"]
+        },
+        {
+            "id": "2",
+            "cards": ["1", "2", "3"]
+        },
+        {
+            "id": "3",
+            "cards": ["1"]
+        },
+        {
+            "id": "4",
+            "cards": ["4"]
+        }
+    ],
+    "tags": [
+        {
+            "id": "1",
+            "value": "tag 1"
+        },
+        {
+            "id": "2",
+            "value": "tag 2"
+        },
+        {
+            "id": "3",
+            "value": "tag 3"
+        },
+        {
+            "id": "4",
+            "value": "tag 4"
+        }
+    ]
+}
