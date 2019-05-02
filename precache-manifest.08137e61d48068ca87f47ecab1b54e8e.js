@@ -16,27 +16,27 @@ self.__precacheManifest = [
     "url": "/memorize-cards/static/media/slick.b7c9e1e4.woff"
   },
   {
-    "revision": "1429ce2364b3471bd90b",
-    "url": "/memorize-cards/static/js/runtime~main.2123091d.js"
+    "revision": "d8c42971e0d4de772ed3",
+    "url": "/memorize-cards/static/js/runtime~main.9da272da.js"
   },
   {
-    "revision": "819cd7de64d8f84349d1",
-    "url": "/memorize-cards/static/js/main.0ddb679f.chunk.js"
+    "revision": "73bc2e8b7665305ef97d",
+    "url": "/memorize-cards/static/js/main.c7d57913.chunk.js"
   },
   {
-    "revision": "d6fc9c49904c2b982fcb",
-    "url": "/memorize-cards/static/js/2.f6d041f1.chunk.js"
+    "revision": "e6897dd801564a344eb0",
+    "url": "/memorize-cards/static/js/2.d38659e4.chunk.js"
   },
   {
-    "revision": "819cd7de64d8f84349d1",
-    "url": "/memorize-cards/static/css/main.02138d6b.chunk.css"
+    "revision": "73bc2e8b7665305ef97d",
+    "url": "/memorize-cards/static/css/main.465dec96.chunk.css"
   },
   {
-    "revision": "d6fc9c49904c2b982fcb",
-    "url": "/memorize-cards/static/css/2.59b88344.chunk.css"
+    "revision": "e6897dd801564a344eb0",
+    "url": "/memorize-cards/static/css/2.9558bbe3.chunk.css"
   },
   {
-    "revision": "d7fc5d894b1d15b832f9d6bfc9aceca4",
+    "revision": "50ea6731bf808ce0d069bbdb199c40b2",
     "url": "/memorize-cards/index.html"
   }
 ];
