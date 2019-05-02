@@ -1,11 +1,12 @@
 .header {
     position: sticky;
     z-index: 1;
-    background: white;
+    background: $color-purple;
+    color: $color-white;
     width: 100%;
     padding: 1rem;
     top: 0;
-    box-shadow: 0 0 3px rgba(0, 0, 0, .2);
+    box-shadow: 0 -4px darken($color-purple, 15%) inset;
     font-weight: bold;
     text-transform: uppercase;
     font-size: smaller;
