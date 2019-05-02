@@ -1,18 +1,13 @@
-* {
-    box-sizing: border-box;
-}
-
-.App {
-    margin: 0 0 1.5rem 0;
-
-    .title {
-        margin-bottom: 3rem;
-    }
-}
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c:400,500,700,900');
 
 @import '~slick-carousel/slick/slick.css'; 
 @import '~slick-carousel/slick/slick-theme.css';
 
+@import 'variables';
+
+@import 'default';
+
 @import 'card';
 @import 'cards';
 @import 'header';
+@import 'tag';
